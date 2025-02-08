@@ -51,6 +51,7 @@ const Hero = () => {
                     initial={{ x: 100, opacity: 0 }}
                     animate={{ x: 0, opacity: 1 }} 
                     transition={{ duration: 1, delay: 1.2 }}
+                    className="rounded-2xl"
                     src={profilePic} alt="Ramzy" />
                 </div>
             </div>
