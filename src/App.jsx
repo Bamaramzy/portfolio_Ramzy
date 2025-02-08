@@ -2,7 +2,7 @@ import About from "./component/About";
 import Contact from "./component/Contact";
 import Experience from "./component/Experience";
 import Hero from "./component/Hero";
-import Navbar from "./component/navbar";
+import Navbar from "./component/Navbar";
 import Projects from "./component/Projects";
 import Technologies from "./component/Technologies";
 
