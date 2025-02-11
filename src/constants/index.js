@@ -33,6 +33,7 @@ export const EXPERIENCES = [
 export const PROJECTS = [
   {
     title: "Car Rental Website",
+    url: "https://24001182-km7-team8-bcr-ch7-8ood.vercel.app/",
     image: project1,
     description:
       "This project enhanced my full-stack development skills, strengthened my ability to work in a team, and provided hands-on experience with modern web development technologies.",
@@ -40,6 +41,7 @@ export const PROJECTS = [
   },
   {
     title: "Airline Ticket Booking Website",
+    url: "https://terbangin-rheno27s-projects.vercel.app/",
     image: project2,
     description:
       "This project enhanced my full-stack development skills, strengthened my ability to work in a team, and provided hands-on experience with modern web development technologies. It's a platform that allows users to book tickets for flights.",
@@ -47,6 +49,7 @@ export const PROJECTS = [
   },
   {
     title: "Cek Khodam Website",
+    url: "https://cek-khodam-v2-eosin.vercel.app/",
     image: project3,
     description:
       "Cek Khodam Website is an online platform that helps users check and identify their spiritual guides (just for a joke !).",
